@@ -42,25 +42,25 @@ This project demonstrates the implementation of a four-branch Enterprise WAN usi
 ## Screenshots
 
 ### Network Topology
-![Network Topology](Screenshots/Network_Topology.png)
+![Network Topology](Screenshots/Network_Topology.jpeg)
 
 ### OSPF Neighbor Verification
-![OSPF Neighbor Verification](Screenshots/OSPF_Neighbor_Verification.jpg)
+![OSPF Neighbor Verification](Screenshots/OSPF_Neighbor_Verification.jpeg)
 
 ### Routing Table Before Link Failure
-![Routing Table Before Failure](Screenshots/Routing_Table_Before_Failure.jpg)
+![Routing Table Before Failure](Screenshots/Routing_Table_Before_Failure.jpeg)
 
 ### Ping Test Before Link Failure
-![Ping Test Before Failure](Screenshots/Ping_Test_Before_Failure.jpg)
+![Ping Test Before Failure](Screenshots/Ping_Test_Before_Failure.jpeg)
 
 ### WAN Link Failure Simulation
-![WAN Link Failure](Screenshots/WAN_Link_Failure_Simulation.jpg)
+![WAN Link Failure](Screenshots/WAN_Link_Failure_Simulation.jpeg)
 
 ### Routing Table After Link Failure
-![Routing Table After Failure](Screenshots/Routing_Table_After_Failure.jpg)
+![Routing Table After Failure](Screenshots/Routing_Table_After_Failure.jpeg)
 
 ### Ping Test After Link Failure
-![Ping Test After Failure](Screenshots/Ping_Test_After_Failure.jpg)
+![Ping Test After Failure](Screenshots/Ping_Test_After_Failure.jpeg)
 
 ## What I Learned
 - Configured OSPF on multiple routers.
