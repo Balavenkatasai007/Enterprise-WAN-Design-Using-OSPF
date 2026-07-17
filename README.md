@@ -42,7 +42,7 @@ This project demonstrates the implementation of a four-branch Enterprise WAN usi
 ## Screenshots
 
 ### Network Topology
-![Network Topology](Screenshots/Network_Topology.jpg)
+![Network Topology](Screenshots/Network_Topology.png)
 
 ### OSPF Neighbor Verification
 ![OSPF Neighbor Verification](Screenshots/OSPF_Neighbor_Verification.jpg)
